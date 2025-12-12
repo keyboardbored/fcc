@@ -1,4 +1,4 @@
 G = g++ 
 
 all:
-	$(G) base.cc -o a
+	$(G) ./src/base.cc -o ./a
