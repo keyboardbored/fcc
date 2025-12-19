@@ -1,4 +1,4 @@
-G = g++ 
+G = gcc
 
 all:
-	$(G) ./src/base.cc -o ./a
+	$(G) ./src/fcc.c -o fcc
